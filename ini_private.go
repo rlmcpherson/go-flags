@@ -62,7 +62,7 @@ func writeGroupIni(group *Group, namespace string, writer io.Writer, options Ini
 	var sname string
 
 	if len(namespace) != 0 {
-		sname = namespace + "." + group.ShortDescription
+		sname = namespace
 	} else {
 		sname = group.ShortDescription
 	}

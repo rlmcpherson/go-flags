@@ -73,7 +73,7 @@ Opt =
 ; This is a subsubgroup option
 Opt =
 
-[command.A command]
+[command]
 ; Use for extra verbosity
 ; ExtraVerbose =
 
@@ -121,7 +121,7 @@ Opt =
 ; This is a subsubgroup option
 ; Opt =
 
-[command.A command]
+[command]
 ; Use for extra verbosity
 ; ExtraVerbose =
 
@@ -167,7 +167,7 @@ DefaultMap = new:value
 ; This is a subsubgroup option
 ; Opt =
 
-[command.A command]
+[command]
 ; Use for extra verbosity
 ; ExtraVerbose =
 
